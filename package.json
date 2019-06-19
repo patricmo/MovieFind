@@ -18,11 +18,12 @@
   "homepage": "https://github.com/patricmo/MovieFind#readme",
   "devDependencies": {
     "browserify": "*",
+    "create-react-class": "^15.6.3",
     "flux": "*",
     "gulp": "*",
+    "object-assign": "*",
     "reactify": "*",
-    "vinyl-source-stream": "*",
-    "object-assign": "*"
+    "vinyl-source-stream": "*"
   },
   "dependencies": {
     "react": "16.8.6",
